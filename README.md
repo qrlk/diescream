@@ -3,4 +3,4 @@ A **[moonloader](https://gtaforums.com/topic/890987-moonloader/)** script that s
 
 File encoding is cp1251.
 
-Requires **[CLEO 4+](http://cleo.li/?lang=ru)**
+Requires **[CLEO 4+](http://cleo.li/?lang=ru)**.
