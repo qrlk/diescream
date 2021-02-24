@@ -1,4 +1,6 @@
-# Описание  
-Отправляет сообщение в чат сразу же после смерти. Сообщение можно быстро изменить, кодировка файла cp1251.
+# diescream
+A **[moonloader](https://gtaforums.com/topic/890987-moonloader/)** script that sends a message to the chat after the user's character dies (**[gta samp](https://sa-mp.com/)**).
 
-**Требования:** [CLEO 4+](http://cleo.li/?lang=ru), [MoonLoader](https://blast.hk/threads/13305/).
+File encoding is cp1251.
+
+Requires **[CLEO 4+](http://cleo.li/?lang=ru)**
